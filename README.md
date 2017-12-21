@@ -15,8 +15,8 @@ These instructions will get you a copy of the project up and running on your loc
 Things you need to setup your environment to run the software.
 
 ```
-1. [Eclipse IDE for Java Developers] - http://www.eclipse.org/downloads/
-2. [MySQL Workbench] - https://dev.mysql.com/downloads/workbench/
+1. [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/)
+2. [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 ```
 
 ### Authors
