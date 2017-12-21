@@ -12,17 +12,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Things you need to setup your environment to run the software.
 
 ```
-Eclipse IDE for Java Developers
-MySQL Workbench 
+1. [Eclipse IDE for Java Developers] - http://www.eclipse.org/downloads/
+2. [MySQL Workbench] - https://dev.mysql.com/downloads/workbench/
 ```
 
-### Installing
-
-There is no secret when installing Eclipse IDE and MySQL Workbench. Follow their guide on their websites to get through the installation.
-
-## Authors
+### Authors
 
 * **José Vieira** - [vieiraj2](https://github.com/vieiraj2)
